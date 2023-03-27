@@ -1,5 +1,5 @@
 {
-  "image": "limych/hassio-presence-monitor-{arch}",
+  "image": "bigthundersr/hassio-presence-monitor-{arch}",
   "squash": false,
   "build_from": {
       "aarch64": "hassioaddons/debian-base-aarch64:2.0.0",
