@@ -43,6 +43,9 @@ ln -s "${SHARE}/behavior_preferences" "/opt/monitor/behavior_preferences"
 # BEHAVIOR PREFERENCES
 # ---------------------------
 
+# SET PREFERRED HCI DEVICE
+PREF_HCI_DEVICE=hci1
+
 # MAX RETRY ATTEMPTS FOR ARRIVAL
 PREF_ARRIVAL_SCAN_ATTEMPTS=1
 
