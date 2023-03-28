@@ -13,6 +13,6 @@ docker run -it --rm --privileged --name "presence-monitor" \
     --tag-latest \
     --push \
     --all \
-    --author "Andrey Khrolenok <andrey@khrolenok.ru>" \
-    --doc-url "https://github.com/limych/hassio-presence-monitor" \
+    --author "BigThunderSR" \
+    --doc-url "https://github.com/BigThunderSR/hassio-presence-monitor" \
     --parallel
