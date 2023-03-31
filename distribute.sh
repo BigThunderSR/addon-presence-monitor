@@ -15,7 +15,7 @@ docker run -it --rm --privileged --name "${ADDON_NAME}" \
     --git \
     --push \
     --all \
-    --author "Andrey Khrolenok <andrey@khrolenok.ru>" \
+    --author "BigThunderSR" \
     --doc-url "${GITHUB_URL}" \
     --login "${DOCKER_USERNAME}" \
     --password "${DOCKER_PASSWORD}" \
