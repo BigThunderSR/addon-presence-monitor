@@ -1,6 +1,6 @@
 {
   "name": "Bluetooth Presence Monitor",
-  "version": "dev",
+  "version": "dev2",
   "slug": "presence_monitor",
   "description": "Passive Bluetooth presence detection of beacons, cell phones, and other Bluetooth devices.",
   "url": "https://github.com/BigThunderSR/addon-presence-monitor",
