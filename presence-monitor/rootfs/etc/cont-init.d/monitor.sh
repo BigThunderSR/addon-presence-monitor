@@ -37,7 +37,7 @@ if ! bashio::fs.directory_exists "${SHARE}"; then
 fi
 
 ln -s "${SHARE}/behavior_preferences" "/opt/monitor/behavior_preferences"
-[[ ! -f "${SHARE}/behavior_preferences" ]] \
+[[ -f "${SHARE}/behavior_preferences" ]] \
     && cat >"${SHARE}/behavior_preferences" <<EOF
 # ---------------------------
 # BEHAVIOR PREFERENCES
